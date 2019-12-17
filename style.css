@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.sol ul {
+    list-style: none;
+    font-size: 32px;
+    color: white;
+
+
+}
+
+.sol {
+    float: left;
+    background: #1da1f2;
+    width: 50%;
+    padding: 280px 100px;
+    height: 100vh;
+
+
+}
+
+
+.sol ul li {
+    margin-bottom: 25px;
+
+
+}
+
+
+
+
+.sag {
+    padding: 150px 150px;
+    width: 50%;
+    float: left;
+
+}
+
+.sag .sekil {
+
+
+    width: 11%;
+    float: left;
+}
+
+
+.sag .sekil img {
+
+    width: 100%;
+
+}
+
+
+.clear {
+    clear: both;
+
+
+}
+
+.sag h2 {
+    font-size: 2.1em;
+
+
+}
+
+.sag p {
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: bold;
+
+
+}
+
+
+.sag .mybtn {
+    padding: 15px 10px;
+    border-radius: 15px;
+    background: aqua;
+    border: 1px solid #1da1f2;
+    background: transparent;
+    float: right;
+
+
+}
+
+
+.sag .mybtn2 {
+    padding: 8px 15px;
+    width: 100%;
+    margin-top: 10px;
+    font-weight: 700;
+    background: #1da1f2;
+    color: #fff;
+    border: none;
+    font-size: 1.05em;
+    border-radius: 15px;
+
+}
+
+.sag .mybtn2:hover {
+    background: red;
+
+    cursor: pointer;
+
+}
+
+
+.sag .mybtn2:last-child {
+    background: transparent;
+    border: 1px solid #1da1f2;
+    color: #1da1f2;
+}
+
+.asagi li{
+list-style: none;
+float: left;
+padding: 7px 15px;
+color: rgb(145, 139, 139);
+
+
+
+}
